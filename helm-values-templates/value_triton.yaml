@@ -27,7 +27,7 @@
 replicaCount: 1
 
 image:
-  repository: mtz.ocir.io/orasenatdpltintegration03/triton_trt_llm_rclone_commands
+  repository: fra.ocir.io/ocisateam/tritonllm_llama2.7
   tag: latest
   pullPolicy: IfNotPresent
 ports:
